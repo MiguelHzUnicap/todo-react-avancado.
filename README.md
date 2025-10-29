@@ -55,5 +55,3 @@ O usuário pode:
    git clone https://github.com/<seu-usuario>/todo-react-avancado.git
    cd todo-react-avancado
 
-
-## 🧱 Estrutura do Projeto
